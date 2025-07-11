@@ -1,12 +1,29 @@
-# React + Vite
+# Dr.0000FF.com 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the official repository for **[Dr.0000FF.com](https://dr0000ff.com)** — my personal developer portfolio. This site is built to showcase my skills, my journey as a developer, and the projects that define me.
 
-Currently, two official plugins are available:
+## 💡 About the Site
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Dr.0000FF.com** is a modern developer portfolio website with a clean design and bold visuals. It includes:
 
-## Expanding the ESLint configuration
+- 🧠 **About Me** – A glimpse into who I am and what drives me.
+- 💻 **Projects** – A curated gallery of my development work.
+- 📫 **Contact** – Easy ways to get in touch for collaborations or opportunities.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Built With
+
+- **React.js** – Frontend framework for building UI
+- **Tailwind CSS** – Utility-first CSS for fast styling
+- **Vite** – Lightning-fast dev environment
+- **GitHub Pages / Vercel / Netlify** – (Specify if deployed through one)
+
+## 🚧 Current Features
+
+- Fully responsive layout
+- Smooth scroll and animations
+- Interactive project cards
+- Custom theme with electric blue `#0000FF` accents
+- Contact form (email integration or form handling service)
+
+## 📁 Folder Structure (simplified)
+
